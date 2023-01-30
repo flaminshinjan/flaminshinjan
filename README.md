@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaminshinjan&label=Profile%20views&color=0e75b6&style=flat" alt="flaminshinjan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaminshinjan" alt="flaminshinjan" /></a> </p>
-
 - 🔭 I’m currently working on **WeatherAtYourTips**
 
 - 🌱 I’m currently learning **SwiftUI, Flutter, Firebase**
@@ -28,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaminshinjan&show_icons=true&locale=en&layout=compact" alt="flaminshinjan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flaminshinjan&show_icons=true&locale=en" alt="flaminshinjan" /></p>
-
