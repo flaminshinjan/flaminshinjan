@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaminshinjan&label=Profile%20views&color=0e75b6&style=flat" alt="flaminshinjan" /> </p>
 
-- 🔭 I’m currently working on **WeatherAtYourTips**
+- 🔭 I’m currently working on **dBug labs**
 
 - 🌱 I’m currently learning **SwiftUI, Flutter, Firebase**
 
