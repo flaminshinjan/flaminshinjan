@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **dBug labs**
 
-- 🌱 I’m currently learning **SwiftUI, Flutter, Firebase**
+- 🌱 I’m currently comfortable in **SwiftUI, Flutter, Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/flaminshinjan](https://github.com/flaminshinjan)
 
-- 💬 Ask me about **SwiftUI, C, Python**
+- 💬 Ask me about **SwiftUI, Flutter, Firebase, C++, C, Python**
 
 - 📫 How to reach me **srikpatra.2008@gmail.com**
 
