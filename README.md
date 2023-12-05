@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Swift Money<br>👯 I’m looking to collaborate on AR VR + App Dev projects.<br>🤝 I’m looking for help with Web Development.<br>🌱 I’m currently learning Next.js & Three.js<br>💬 Ask me about Flutter & SwiftUI<br>⚡ Fun fact is that i like spontaneous plans alot.
+🔭 I’m currently working in Ionio.ai<br>👯 I’m looking to collaborate on AR/VR + App Dev projects.<br>🤝 I’m looking for help with Web Development.<br>🌱 I’m currently learning Next.js & Three.js<br>💬 Ask me about Flutter & SwiftUI<br>⚡ Fun fact is that i like spontaneous plans alot.
 
 
 # 💻 Tech Stack:
