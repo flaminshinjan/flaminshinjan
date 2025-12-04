@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Indus<br>👯 I’m looking to collaborate on stuff.
+🔭 I’m currently working in Highperformr.AI<br>👯 I’m looking to collaborate on stuff.
 
 
 # 💻 Tech Stack:
